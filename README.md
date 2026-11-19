@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería de Sistemas en Barrancabermeja, Colombia, con inte
 *Systems Engineering student with foundational knowledge of database design and web development with PHP and MySQL.*
 
 - 🌱 Actualmente estoy practicando: desarrollo backend con PHP y arquitectura MVC
-- 🗄️ Me gusta diseñar bases de datos: modelos ER, relaciones y consultas SQL
+- 🗄️ Me gusta diseñar bases de datos: modelos MER,ER, relaciones y consultas SQL
 - 🌍 Mejorando mi inglés técnico
 - 🤝 Abierto a aprender y colaborar en proyectos
 
